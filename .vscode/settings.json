@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/13d08a6e-0bb0-4869-81fe-b35b8d3c73e8/resourceGroups/rgmovdimdim/providers/Microsoft.Web/sites/movdimdim-pythonrm551201",
+    "appService.deploySubpath": "."
+}
